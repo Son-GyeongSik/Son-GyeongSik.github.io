@@ -2,18 +2,16 @@
 
 ---
 
-### Category Name 1 
+### About
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Sungkyunkwan Univ. (Suwon, Korea) - Dept. of Software
+2018.03 ~ Now
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Hanalum - Full-Stack Developer
+2019.02 ~ 2020.03
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### CSI Research Center (Sungkyunkwan Univ.) - Intern Researcher
+2022.02 ~ 2022.09
 
 ---
 
