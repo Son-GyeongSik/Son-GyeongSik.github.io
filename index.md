@@ -1,27 +1,33 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### About
+## About
 
-#### Sungkyunkwan Univ. (Suwon, Korea) - Dept. of Software
+### Sungkyunkwan Univ. (Suwon, Korea) - Dept. of Software
 2018.03 ~ Now
 
-#### Hanalum - Full-Stack Developer
+### Hanalum - Full-Stack Developer
 2019.02 ~ 2020.03
 
-#### CSI Research Center (Sungkyunkwan Univ.) - Intern Researcher
+### CSI Research Center (Sungkyunkwan Univ.) - Intern Researcher
 2022.02 ~ 2022.09
 
 ---
 
-### Category Name 2
+## Technical Stack
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Languages
+C, C++, Python, Java, JavaScript
+
+### Framework
+FastAPI
+
+---
+
+## Project Experience
+
+- [Hanalum](http://hanalum.kr/)
 
 ---
 
