@@ -1,39 +1,39 @@
 # Portfolio
 
----
+# 📖 Education
 
-## About
+### **Bachelor's Degree in Software**
 
-### Sungkyunkwan Univ. (Suwon, Korea) - Dept. of Software
-2018.03 ~ Now
+*2018 ~ Now*
 
-### Hanalum - Full-Stack Developer
-2019.02 ~ 2020.03
-
-### CSI Research Center (Sungkyunkwan Univ.) - Intern Researcher
-2022.02 ~ 2022.09
+Sungkyunkwan Univ. (Suwon, Korea)
 
 ---
 
-## Technical Stack
+# 🙍🏻‍♂️ About
+
+### Full-Stack Developer
+
+***Hanalum**, Korea – (Feb 2019 - Mar 2020)*
+
+### Intern Researcher
+
+***CSI Research Center**, Sungkyunkwan Univ. – (Feb 2022 - Aug 20220)*
+
+---
+
+# 💻 Skills
 
 ### Languages
-C, C++, Python, Java, JavaScript
+
+   C, C++, Python
 
 ### Framework
-FastAPI
+
+   FastAPI
 
 ---
 
-## Project Experience
+# ✅ Projects
 
-- [Hanalum](http://hanalum.kr/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+###[Hanalum](hanalum.kr)
