@@ -74,7 +74,7 @@
 *Team Leader - (Mar 2019 ~ Dec 2019)*
 
 
-### RED:orm Project
+### [RED:orm Project](/sample_page)
 
 *Front-End Developer - (Sep 2022 ~ Dec 2022)*
 
