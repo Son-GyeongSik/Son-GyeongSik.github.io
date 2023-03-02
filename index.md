@@ -64,7 +64,7 @@
 
 # ✅ Projects
 
-### Hanalum Project
+### [Hanalum Project](/sub_pages/Hanalum/Hanalum.md)
 
 *Full-Stack Developer - (Feb 2019 ~ Mar 2020)*
 
