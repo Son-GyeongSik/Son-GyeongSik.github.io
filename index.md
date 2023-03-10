@@ -10,7 +10,7 @@
 
 # 🙍🏻‍♂️ About
 
-### Full-Stack Developer
+### Front-End Developer
 
 *Hanalum, Korea – (Feb 2019 - Mar 2020)*
 
@@ -66,7 +66,7 @@
 
 ### [Hanalum Project](/sub_pages/Hanalum/Hanalum.md)
 
-*Full-Stack Developer - (Feb 2019 ~ Mar 2020)*
+*Front-End Developer - (Feb 2019 ~ Mar 2020)*
 
 
 ### SKKU Industry-Academic Cooperation Project
