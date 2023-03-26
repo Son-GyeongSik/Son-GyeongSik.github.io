@@ -24,6 +24,11 @@
 
 *CSI Research Center, Sungkyunkwan Univ. – (Feb 2022 - Aug 20220)*
 
+
+### SW Maestro 14th trainee
+
+*SW Maestro, Korea. – (Apr 2023 - Current)*
+
 ---
 
 # 💻 Skills
