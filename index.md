@@ -83,6 +83,15 @@
 
 *Front-End Developer - (Sep 2022 ~ Dec 2022)*
 
+### Oasis - Bitcoin Auto Trade System
+
+*Client Developer - (Mar 2023 ~ )*
+
+### Sroom - YouTube Education Platform
+
+*Back-End Developer & Prompt Engineer - (Apr 2023 ~ )*
+
+
 ---
 
 # 🧾 Papers
