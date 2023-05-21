@@ -40,7 +40,7 @@
 
 ### Framework
 
- FastAPI
+ FastAPI, Spring
 
 ---
 
