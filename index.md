@@ -4,7 +4,7 @@
 
 ### **Bachelor's Degree in Software**
 
-*Sungkyunkwan Univ. , Suwon, Korea - (*Mar 2018 - Now)*
+*[Sungkyunkwan Univ.](https://cs.skku.edu/ko/) , Suwon, Korea - (*Mar 2018 - Now)*
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### SW Maestro 14th trainee
 
-*SW Maestro, Korea. – (Apr 2023 - Current)*
+*[SW Maestro, Korea](https://swmaestro.org/sw/main/main.do). – (Apr 2023 - Current)*
 
 ---
 
@@ -35,12 +35,12 @@
 
 ### Languages
 
- C, C++, Python, Java, JavaScript, HTML5, CSS3
+ C, C++, Python, Java, JavaScript, TypeScript, HTML5, CSS3
 
 
 ### Framework
 
- FastAPI, Spring
+ FastAPI, Spring, React.JS
 
 ---
 
