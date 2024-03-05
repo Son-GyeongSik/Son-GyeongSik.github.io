@@ -87,9 +87,9 @@
 
 *Front-End Developer - (Sep 2022 ~ Dec 2022)*
 
-### Oasis - Bitcoin Auto Trade System
+### Oasis - Cryto Currency Auto Trading System
 
-*Client Developer - (Mar 2023 ~ )*
+*Back-End Developer - (Mar 2023 ~ )*
 
 ### Sroom - YouTube Education Platform
 
