@@ -27,7 +27,11 @@
 
 ### SW Maestro 14th trainee
 
-*[SW Maestro, Korea](https://swmaestro.org/sw/main/main.do). – (Apr 2023 - Current)*
+*[SW Maestro, Korea](https://swmaestro.org/sw/main/main.do). – (Apr 2023 - Dec 2023)*
+
+### Back-End Developer
+
+*OASIS, Korea – (Mar 2023 - Current)*
 
 ---
 
